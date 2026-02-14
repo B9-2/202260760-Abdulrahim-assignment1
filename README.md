@@ -19,4 +19,4 @@ I used AI tools (ChatGPT) to help with HTML structure, CSS styling, and JavaScri
 More details: `docs/ai-usage-report.md`.
 
 ## Live Demo
-[Add your GitHub Pages link here if you deploy it]
+https://b9-2.github.io/202260760-Abdulrahim-assignment1/
