@@ -5,7 +5,8 @@
 - **HTML structure:** Helped me plan a simple portfolio layout (About, Projects, Contact).
 - **Form creation:** Suggested a correct contact form structure (labels + inputs + textarea).
 - **CSS improvements:** Helped me fix layout issues (ugly form spacing, image alignment) and make the page more responsive.
-- **JavaScript feature:** Helped me implement a time-based greeting and a dark/light mode toggle.
+- **JavaScript feature:** Helped me implement dark/light mode toggle.
+- **ReadMe documents:** Helped me writing and organizing documents (ai-usage-report.md, technical-documentation.md, README.md)
 
 ### [Other tool if used, otherwise delete]
 - **GitHub** — I made a repository for the assignment and cloned it using vsc
